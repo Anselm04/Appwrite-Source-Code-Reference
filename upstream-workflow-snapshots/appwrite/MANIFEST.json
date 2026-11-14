@@ -1,0 +1,158 @@
+{
+  "source": "https://github.com/appwrite/appwrite.git",
+  "commit": "8d5559c74e9d8ef336713cabfb9b512fdb86c5b1",
+  "number_of_original_workflow_files": 25,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/ai-moderator.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/ai-moderator.yml",
+      "git_blob": "56fd2db08736e91f31191aa844a012d57cba7373",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/auto-label-issue.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/auto-label-issue.yml",
+      "git_blob": "6ca5e80bc2a28d5dc5fd8bbeb9cbc434cd90ffd2",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/benchmark-comment.js",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/benchmark-comment.js",
+      "git_blob": "714483f9e99f3a072459ea9ae8fdb53516c5a245",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/ci.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/ci.yml",
+      "git_blob": "96d90c83f3d3b7a370ec48059fe42e02a74a44f0",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/cleanup-cache.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/cleanup-cache.yml",
+      "git_blob": "ad52ba08392718dea03a260471f81bac15453049",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/codeql-analysis.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/codeql-analysis.yml",
+      "git_blob": "60fc97c3cdb17375e8de77bbb1f5dbd19da7c583",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-production.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-production.yml",
+      "git_blob": "6cee9eb19a39e67147463021779e3e7fb10228cc",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-snippets-qa-android.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-snippets-qa-android.yml",
+      "git_blob": "467f21631144e8afc1603d642cd00ffcccc3a1fd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-snippets-qa-ios.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-snippets-qa-ios.yml",
+      "git_blob": "452fe95f7cfee4e18999ba97effe744173e27cd9",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-snippets-qa-server.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-snippets-qa-server.yml",
+      "git_blob": "62bccc0c7240f47887558388111e0541ed65de8f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-snippets-qa-web.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-snippets-qa-web.yml",
+      "git_blob": "b1fbc53a418fbdc8a4d6148d6ed2529dae297253",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console-staging.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console-staging.yml",
+      "git_blob": "f58980c9c5d52a6900afc08edd4f0971b4479503",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/console.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/console.yml",
+      "git_blob": "b2ada5ec192fc4f130a6898475b28015432b57bd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/mirror-redirect.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/mirror-redirect.yml",
+      "git_blob": "c5570ae96ef58b506e72bbefea6b4dd67b9abf2d",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/nightly.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/nightly.yml",
+      "git_blob": "59c624f8714cc0bbf74912f1c4338fa0f1946d10",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/publish.yml",
+      "git_blob": "8abfe34eb565f5e80a2f997758819836bffaa050",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/release.yml",
+      "git_blob": "1c8644852f54a44b927084a4e58728e9e7c1d15a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/sdk-preview.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/sdk-preview.yml",
+      "git_blob": "fc2295d244e44423859253ecba4203d38a2222d4",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/security-scan.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/security-scan.yml",
+      "git_blob": "3f75450e8ca0502eb768c9147f4067317a10ff6f",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/semgrep-comment.js",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/semgrep-comment.js",
+      "git_blob": "1e05618527d13a2b22ed40dc5d7deedf59474902",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/split-dev.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/split-dev.yml",
+      "git_blob": "14747b49ffc5b687d3ab8f509b526830e76b1ae2",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/split.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/split.yml",
+      "git_blob": "4ebaa83ea85d0d67559d1d6f9f6c23310fbb5058",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/stale.yml",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/stale.yml",
+      "git_blob": "744d04367620566f33cddfbd8c02060225cfe13d",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/static-analysis/locale/index.js",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/static-analysis/locale/index.js",
+      "git_blob": "dd4594fc4d3d05e6171df3f33b078f8fe4308551",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/static-analysis/locale/package.json",
+      "reference_path": "upstream-workflow-snapshots/appwrite/.github/workflows/static-analysis/locale/package.json",
+      "git_blob": "748a3e6d2a4323c80c42333e07e3c9a7a24de63f",
+      "original_mode": "100644"
+    }
+  ]
+}
